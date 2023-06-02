@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/murad2243/static/css/main.1b6aa2d8.css",
-    "main.js": "/murad2243/static/js/main.df3595af.js",
-    "static/js/787.1ed0c42c.chunk.js": "/murad2243/static/js/787.1ed0c42c.chunk.js",
-    "static/media/clothsnite.png": "/murad2243/static/media/clothsnite.0dcfc73ad3feaaee3732.png",
-    "static/media/chilltv.png": "/murad2243/static/media/chilltv.7f3dbbf3969b172b02e8.png",
-    "static/media/Profile Pic.png": "/murad2243/static/media/Profile Pic.b1b4296445a005316330.png",
-    "index.html": "/murad2243/index.html",
-    "main.1b6aa2d8.css.map": "/murad2243/static/css/main.1b6aa2d8.css.map",
-    "main.df3595af.js.map": "/murad2243/static/js/main.df3595af.js.map",
-    "787.1ed0c42c.chunk.js.map": "/murad2243/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.1b6aa2d8.css",
+    "main.js": "/static/js/main.dcf5a353.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/clothsnite.png": "/static/media/clothsnite.0dcfc73ad3feaaee3732.png",
+    "static/media/chilltv.png": "/static/media/chilltv.7f3dbbf3969b172b02e8.png",
+    "static/media/Profile Pic.png": "/static/media/Profile Pic.b1b4296445a005316330.png",
+    "index.html": "/index.html",
+    "main.1b6aa2d8.css.map": "/static/css/main.1b6aa2d8.css.map",
+    "main.dcf5a353.js.map": "/static/js/main.dcf5a353.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b6aa2d8.css",
-    "static/js/main.df3595af.js"
+    "static/js/main.dcf5a353.js"
   ]
 }
