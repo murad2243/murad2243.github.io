@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b6aa2d8.css",
-    "main.js": "/static/js/main.07112603.js",
+    "main.css": "/static/css/main.fb8f1f0e.css",
+    "main.js": "/static/js/main.583f7009.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/quickbuy.png": "/static/media/quickbuy.ccb1f128d3ea86e8796a.png",
     "static/media/clothsnite.png": "/static/media/clothsnite.0dcfc73ad3feaaee3732.png",
     "static/media/chilltv.png": "/static/media/chilltv.7f3dbbf3969b172b02e8.png",
+    "static/media/Murad-Kodalwad-Resume.pdf": "/static/media/Murad-Kodalwad-Resume.4adfdafe51349715cd3a.pdf",
     "static/media/Profile Pic.png": "/static/media/Profile Pic.b1b4296445a005316330.png",
     "index.html": "/index.html",
-    "main.1b6aa2d8.css.map": "/static/css/main.1b6aa2d8.css.map",
-    "main.07112603.js.map": "/static/js/main.07112603.js.map",
+    "main.fb8f1f0e.css.map": "/static/css/main.fb8f1f0e.css.map",
+    "main.583f7009.js.map": "/static/js/main.583f7009.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b6aa2d8.css",
-    "static/js/main.07112603.js"
+    "static/css/main.fb8f1f0e.css",
+    "static/js/main.583f7009.js"
   ]
 }
